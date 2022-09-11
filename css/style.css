@@ -14,7 +14,7 @@ h3 {
     color: grey;
 }
 
-text.last{
+.text .last{
     color: red;
 }
 
@@ -22,7 +22,7 @@ text.last{
     color: greenyellow;
 }
 
-.valensiya + p {
+.valensiya > p {
     color: hotpink;
 } 
 
