@@ -14,7 +14,7 @@ h3 {
     color: grey;
 }
 
-.last p {
+text.last{
     color: red;
 }
 
