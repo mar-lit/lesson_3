@@ -1,0 +1,31 @@
+a {
+    color: saddlebrown;
+}
+
+h3 {
+    color: green;
+}
+
+.title span {
+    color: blueviolet;
+}
+
+.text {
+    color: grey;
+}
+
+.last p {
+    color: red;
+}
+
+.sightseeing * {
+    color: greenyellow;
+}
+
+.valensiya + p {
+    color: hotpink;
+} 
+
+#serranos {
+    color: indigo;
+}
